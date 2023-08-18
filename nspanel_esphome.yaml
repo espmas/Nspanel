@@ -107,7 +107,7 @@ rtttl:
 
 ##### UART FOR NEXTION DISPLAY #####
 uart:
-  rx_pin: 14
+  rx_pin: 17
   tx_pin: 16
   baud_rate: 115200
   id: tf_uart
