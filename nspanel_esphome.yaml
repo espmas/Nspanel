@@ -109,7 +109,7 @@ rtttl:
 uart:
   rx_pin: 16
   tx_pin: 17
-  baud_rate: 115200
+  baud_rate: 9600
   id: tf_uart
 #   debug:
 #     direction: BOTH
